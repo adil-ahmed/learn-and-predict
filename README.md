@@ -7,19 +7,17 @@ Welcome to the **Machine Learning Models Practice** repository! This repository 
 ### 1. Rock vs Mine Classification
 This project explores the use of **Logistic Regression** to classify objects detected by sonar as either rocks or mines. A dataset containing sonar readings of various objects was used to train and evaluate the model.
 
-- **Dataset:** [Sonar Object Dataset](https://shorturl.at/fipwL)
+- **Dataset:** [Sonar Object Dataset]([https://shorturl.at/fipwL](https://drive.google.com/file/d/1pQxtljlNVh0DHYg-Ye7dtpDTlFceHVfa/view))
 - **Model:** Logistic Regression
-- **Training:** 90% of the dataset
-- **Testing:** 10% of the dataset
-- **Accuracy:** Over 80% in correctly classifying rocks and mines
-
+  
 This project serves as a basic introduction to machine learning algorithms, focusing on data preparation, model training, and evaluation.
 
 ### 2. Diabetic Prediction
 This project implements a **Support Vector Machine (SVM)** to predict whether an individual is likely to have diabetes based on a set of health-related features.
 
+- **Dataset:** [Diabetes Dataset](https://www.dropbox.com/scl/fi/0uiujtei423te1q4kvrny/diabetes.csv?rlkey=20xvytca6xbio4vsowi2hdj8e&e=1&dl=0)
 - **Model:** Support Vector Machine (SVM)
-
+  
 This project demonstrates the application of a classification model to a medical dataset, highlighting the potential of machine learning in healthcare.
 
 ---
