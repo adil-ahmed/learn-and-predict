@@ -1,6 +1,6 @@
-# Machine Learning Models Practice
+# Learn and Predict
 
-Welcome to the **Machine Learning Models Practice** repository! This repository contains a collection of projects aimed at practicing various machine learning models on different datasets to predict outcomes. Each project focuses on a specific dataset and demonstrates the application of different machine learning techniques.
+Welcome to the **Learn and Predict** repository! This repository contains a collection of projects aimed at practicing various machine learning models on different datasets to predict outcomes. Each project focuses on a specific dataset and demonstrates the application of different machine learning techniques.
 
 ## Projects
 
