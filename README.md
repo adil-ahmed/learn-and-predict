@@ -20,6 +20,10 @@ This project implements a **Support Vector Machine (SVM)** to predict whether an
   
 This project demonstrates the application of a classification model to a medical dataset, highlighting the potential of machine learning in healthcare.
 
+### 3. FromKaggle
+This directory is dedicated to machine learning projects based on Kaggle competitions. Each subfolder within this section contains an individual project that showcases end-to-end workflows — including data preprocessing, feature engineering, model selection, training, evaluation, and submission (when applicable). These projects serve both as practical learning exercises and as part of a growing Kaggle portfolio.
+
+
 ---
 
 ## How to Use
