@@ -23,6 +23,13 @@ This project demonstrates the application of a classification model to a medical
 ### 3. FromKaggle
 This directory is dedicated to machine learning projects based on Kaggle competitions. Each subfolder within this section contains an individual project that showcases end-to-end workflows — including data preprocessing, feature engineering, model selection, training, evaluation, and submission (when applicable). These projects serve both as practical learning exercises and as part of a growing Kaggle portfolio.
 
+### 4. MNIST Digit Classifier
+This project is a simple handwritten digit classifier using PyTorch. It trains a neural network on the MNIST dataset and predicts digits from 0–9.
+
+- **Model:** Fully Connected Neural Network (Feedforward)
+- **Loss Function:** Cross-Entropy Loss
+- **Optimizer:** Adam
+- **Dataset:** MNIST
 
 ---
 
